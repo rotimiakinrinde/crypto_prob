@@ -1,2 +1,6 @@
 blockchain/
 *.env
+sql_2.ipynb
+web_scraping.ipynb
+crypto.db
+crypto1.db
